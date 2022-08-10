@@ -1,5 +1,9 @@
 <template>
-  <UserTable></UserTable> 
+  <div class="home">
+    <h1>User Page</h1>
+    <UserTable></UserTable> 
+  </div>
+
 </template>
 
 <script>
